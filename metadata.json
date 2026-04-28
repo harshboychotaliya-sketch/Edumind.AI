@@ -1,0 +1,15 @@
+{
+  "name": "EduMind AI Study Assistant",
+  "description": "An all-in-one AI-powered study platform for solving complex problems, document summarization, practice tests, and progress tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered problem solving",
+    "Document summarization",
+    "Practice test generation",
+    "Progress tracking",
+    "Mind map generation"
+  ]
+}
